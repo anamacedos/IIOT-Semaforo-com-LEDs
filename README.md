@@ -3,7 +3,7 @@ Este projeto simula o funcionamento de um semáforo usando um microcontrolador E
 
 ---
 ## Sobre
-O objetivo deste projeto é controlar três LEDs que representam as luzes de um semáforo onde o verde acende por 20 segundos (liberar o tráfego), o amarelo acende por 10 segundos (atenção) e o vermelho acende por 7 segundos (parar).
+O objetivo deste projeto é controlar três LEDs que representam as luzes de um semáforo onde o verde acende por 20 segundos (ir), o amarelo acende por 10 segundos (atenção) e o vermelho acende por 7 segundos (parar).
 Este ciclo se repete sem tempo definido, simulando o comportamento de um semáforo simples.
 
 
