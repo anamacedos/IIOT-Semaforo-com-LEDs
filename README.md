@@ -18,4 +18,4 @@ LEDs e resistores – Para representar as luzes do semáforo
 
 ---
 ## Autor
-- [Ana Julia Macedo](www.linkedin.com/in/ana-júlia-macedo-157990308)
+- [Ana Julia Macedo](https://api-fake-json-server.onrender.com)
